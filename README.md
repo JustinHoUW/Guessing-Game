@@ -5,4 +5,4 @@ If program encounters any non-digit character, the program prints 'Invalid input
 
 #### Sample Output
 ![]
-<img width="996" alt="Sample-Output-Guessing" src="https://user-images.githubusercontent.com/94030022/169667299-97e1e524-b12d-44f7-bc69-747cfbedc298.png">
+<img width="996" alt="Sample-Output-Guessing" src="file:///Users/justinho/Desktop/Sample-Output-Guessing.png">
