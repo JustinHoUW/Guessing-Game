@@ -1,5 +1,4 @@
 # Guessing-Game - Assembly! <br />
-<img width="284" alt"GuessingPicture" src "https://user-images.githubusercontent.com/94030022/170133459-a9319eb2-848a-41a9-9da0-4b84ee9ced77.png"> <br />
 An Assembly Language Program that generates a number and lets the user to guess it up to nine times! <br />
 <br />
 Provides feedback to the user on whether the input number is "Too small" <br />
