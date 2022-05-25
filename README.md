@@ -7,7 +7,7 @@ or "Too BIG" <br />
 <img width="123" alt="TooBigasm" src="https://user-images.githubusercontent.com/94030022/170132920-7f30127e-1e1c-4aa6-b568-ab14fe66b23b.png"> <br />
 In order to get the user closer to their TARGET <br />
 
-If program encounters any NON-digit CHARACTER <br />
+IF program encounters any NON-digit CHARACTER <br />
 <img width="134" alt="InvalidInputASM" src="https://user-images.githubusercontent.com/94030022/170133132-42dcdbe6-de79-400f-9bad-893f1edb01a3.png"> <br />
 the program prints 'Invalid input' <br />
 
