@@ -1,5 +1,5 @@
 # Guessing-Game - Assembly <br />
-An Assembly Language Program that generates a number and lets the user to guess it up to nine times! <br />
+An Assembly Language Program that generates a number and lets the user to guess the number <br />
 <br />
 Provides feedback to the user on whether the input number is "Too SMALL" <br />
 <img width="284" alt="TooSmallAsm" src="https://user-images.githubusercontent.com/94030022/170132900-81ebd801-4d89-4a11-9300-956a6ce04dc0.png"> <br />
